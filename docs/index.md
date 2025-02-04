@@ -276,6 +276,13 @@ features:
     link: https://www.bilibili.com/video/BV1tRkiYcEXG/?share_source=copy_web&vd_source=5efb7eb559fb6731efdf1dd87ab54abc
     linkText: 宣传片
 ---
+  - icon:
+      src: /server_icons/f.png
+    title: SWA Network Farm 粘液科技服务器
+    details: 版本:1.20.1<br>|离线|公益|粘液<br>一个稳定、安全、不跑路的服务器！
+    link: https://mcsite.npqvq.icu
+    linkText: 坠机去我们的网站，同志！
+---
 
 <style>
 /*爱的魔力转圈圈*/
